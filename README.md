@@ -85,6 +85,7 @@ flowchart TD
 
 ---
 
+```
 Black–Scholes Theorem
 ├── 1️⃣ Core Idea
 │   ├── Fair price of European option (no arbitrage)
@@ -116,3 +117,4 @@ Black–Scholes Theorem
     ├── Stochastic volatility (Heston)
     ├── Jump diffusion (Merton)
     └── Binomial model: discrete-time limit
+```
