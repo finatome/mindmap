@@ -1,5 +1,6 @@
 # mindmap
 
+```mermaid
 mindmap
   root((Black–Scholes Theorem))
     "1️⃣ Core Idea"
@@ -51,3 +52,4 @@ mindmap
       "American Options: free-boundary solutions"
       "Stochastic Volatility / Jumps: Heston, Merton models"
       "Binomial Model as discrete-time precursor"
+```
