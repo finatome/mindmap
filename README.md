@@ -1,6 +1,7 @@
 # mindmap
 
 ```mermaid
+
 mindmap
   root((Black-Scholes Theorem))
     "1. Core Idea"
@@ -52,4 +53,7 @@ mindmap
       "Stochastic Volatility: Heston model"
       "Jump Diffusion: Merton model"
       "Binomial Model: discrete-time precursor"
+
+
+
 ```
